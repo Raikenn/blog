@@ -6,13 +6,28 @@
     <description>Recent content on My Blog</description>
     <generator>Hugo</generator>
     <language>en-uk</language>
+    <lastBuildDate>Fri, 25 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HTB — Active (Linux)</title>
+      <link>http://localhost:1313/htb/active/</link>
+      <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/htb/active/</guid>
+      <description>&lt;h2 id=&#34;-overview&#34;&gt;🧠 Overview&lt;/h2&gt;&#xA;&lt;p&gt;Active is a basic Active Directory box involving manipulating shares. Kerberoasting and using Impacket&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-recon&#34;&gt;🔎 Recon&lt;/h2&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;nmap -sV -sC -oA nmap/lame 10.10.10.3&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
     <item>
       <title>About Me</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
       <description>&lt;h2 id=&#34;-who-am-i&#34;&gt;👾 Who am I?&lt;/h2&gt;&#xA;&lt;p&gt;**Hi, I’m Kieran ** — a Ethical Hacker with a love for retro tech, 8-bit aesthetics, and fast websites.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-skills&#34;&gt;🧠 Skills&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Penetration Testing&lt;/li&gt;&#xA;&lt;li&gt;Bug Bounty Hunting&lt;/li&gt;&#xA;&lt;li&gt;Vibe Coding&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;-contact&#34;&gt;🛸 Contact&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🐙 GitHub: &lt;a href=&#34;https://github.com/Raikenn&#34;&gt;@Raikenn&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;📧 Email: &lt;a href=&#34;mailto:Kierancameron2001@gmail.com&#34;&gt;Kierancameron2001@gmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Now</title>
+      <link>http://localhost:1313/now/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/now/</guid>
+      <description>&lt;h2 id=&#34;-what-im-doing-now&#34;&gt;🕒 What I&amp;rsquo;m Doing Now&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Inspired by &lt;a href=&#34;https://nownownow.com/&#34;&gt;nownownow.com&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;🧠 Learning: Crest CRT Material, Active Directory Exploitation, and some cheeky Python&lt;br&gt;&#xA;🛠️ Building:  Out my retro-themed Hugo blog&lt;br&gt;&#xA;🎮 Playing: &lt;em&gt;Dota 2&lt;/em&gt;&lt;br&gt;&#xA;📍 Location: Somewhere cozy&lt;br&gt;&#xA;📅 Updated: July 25, 2025&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

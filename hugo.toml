@@ -10,3 +10,20 @@ theme = "m10c"
   enableThemeToggle = true
   backgroundColor = "#000000"
   accentColor = "#00FF00"
+  customCSS = ["css/custom.css"]
+
+[params.style]
+  #darkestColor = "#FFA5D6"
+  #darkColor = "#CED1F8"
+  #lightColor = "#FFF0F1"
+ # lightestColor = "#f5f5f5"
+#  primaryColor = "#510C6E"
+  
+
+
+
+[[menu.main]]
+  identifier = "htb"
+  name = "HTB Writeups"
+  url = "/htb/"
+  weight = 3
