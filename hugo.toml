@@ -1,0 +1,12 @@
+baseURL = 'https://raiken.github.io/'
+languageCode = 'en-uk'
+title = 'My Blog'
+theme = "m10c"
+
+[params]
+  author = "Raiken"
+  description = "Personal blog & retro CV"
+  avatar = "34971533.png"
+  enableThemeToggle = true
+  backgroundColor = "#000000"
+  accentColor = "#00FF00"
