@@ -1,0 +1,16 @@
+{
+  "basics": {
+    "picture": "/images/profile.jpg",
+    "name": "Kieran Cameron",
+    "label": "Cyber Security Analyst",
+    "email": "Kierancameron2001@gmail.com",
+    "summary": "Hi! im kieran a cyber security professional interested in all things INFOSEC!",
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "Raikenn",
+        "url": "https://github.com/Raikenn"
+      }
+    ]
+  }
+}
